@@ -11,14 +11,14 @@ Emancipating personality sometimes is illustrated as being different, of course,
 
 What you do in your leisure time forms your life. With smart phone overwhelm the society, we even lost the anxiety of being 
 
-It is the ideas rather than the hobby, appearence, experience or skills forms me. Now, I begin introduce myself.
+It is the ideas rather than the hobby, appearance, experience or skills forms me. Now, I begin introduce myself.
 ## Stay away from social media
 Nowadays, social medias converge our ideas and thought in a industrial way, it becomes much more efficient with censorship. Some high voted answers on `Zhihu`, several hotspot `Weibo` post or dozens of `Douyin` can easily form a new ideas in your brain without arguing and discussion.
 
 Social medias relay ideas without prove, explanation or experiments, they just repeat.
 ## Stay away from video games
-If you proudly acclaim that you have a strong mind and strigent managemant over your time table, just skip this part.
-I used to be a [LOL](https://en.wikipedia.org/wiki/League_of_Legends) fan and I am now. I have tried all kinds of ways to quitting, from deleting the game to delting the Windows.
+If you proudly acclaim that you have a strong mind and stringent management over your time table, just skip this part.
+I used to be a [LOL](https://en.wikipedia.org/wiki/League_of_Legends) fan and I am now. I have tried all kinds of ways to quitting, from deleting the game to deleting the Windows.
 
 It seems that the media has been controlled by game makers, if not, how could the `YouTubers` keep intimating that games are an essential part of our lives be possible?
 When we blame the games, there some classical standpoints to defend themselves.
@@ -36,3 +36,21 @@ What disappointed me is that censorship become more and more strict nowadays, it
 ## Rethink Intelligence
 During my high school period, I was fortunately acquainted some clever guys. The feeling of being overwhelmed frighten me from time to time.
 
+## Hardworking is Heroin
+Hardworking is criminal if you don't know the meaning of what you are doing. Hardworking is criminal if you don't know the meaning of what you are pursuing. Hardworking is criminal if what you are pursuing is ineffective.
+I hate someone recognize me as being able to finish the job if the superintendent releases the assignment. But, that's how the education system manufacture graduates.
+
+## Admitting your mistake is the first step
+Today, what I want to talk about is not about the mistake of someone, but for Chinese culture.
+
+## Learned helplessness or Fearing failure
+There is a interesting phenomenon that someone could be fearless when facing some problem beyond their ability. The reason is simple and plain. If he fail, he just deserve it and cost nothing.
+But if he make it, thought hardly, there is a great bonus. The cost is just the fee of lottery ticket. It seems that they are not afraid of failure, the truth is the failure is mere to mention.
+
+Trying to being perfect make us overstate the consequence of failure. Embarrassing, gaffe and being awkward in the spotlight are nightmare of someone, but these "critical" moments maybe be forgotten be audience about 7 seconds.
+Most of us, specially young adults in university, seldom experience a catastrophe failure caused by our own decision. In fact, we don't have too many choices , there are best solution wherever we arrive.
+Lacking of chance to confront risk and exaggerating failure makes us conservative when there is a choice. 
+
+Fearing of failure, 
+| Risk |  |
+|------|--|
