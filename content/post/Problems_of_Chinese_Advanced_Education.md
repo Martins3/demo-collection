@@ -15,4 +15,5 @@ It makes no difference if lack creative innovation while hit high scores in the 
 There are many conspicuous or hidden, intensional or involuntary conditions that push our education to an awkward swamp where advanced education such as undergraduate and even graduate works like high school.
 Students are eager to fulfill the requirement of teacher instead of dive into specific magic area.
 
-So, now that we can't change the situation suddenly, what can we do to avoid it ? The first and most important principal to remember is treat the educational institution as a barrier instead staircase.
+So, now that we can't change the situation suddenly, what can we do to avoid it ? The first and most important principal to remember is treat the educational institution as a barrier instead staircase that level us up.
+The education seems to lower the standards and weaken the ambitions. Keep it in mind that in many areas, the top leaders almost take all the benefits, stay with them is most simple to avoid the negative impact of the education system which might not stop deteriorating recently.

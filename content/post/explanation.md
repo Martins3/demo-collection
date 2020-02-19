@@ -28,6 +28,9 @@ Games are innocent, but we have something more important to do. Playing game is 
 Popularity of games keep the young away from polices. Nobody want to see a bigger world. If the reality concerned you, just put your head into the virtual world, as if a ostrich.
 
 Video games kills the spare time, the only chance to think, ask question and cause some trouble.
+
+After getting rid of the endless and brain-washing social media and addicting video games, so what should we do to peace our curious and restless mind ? My solution is reading and writing.
+Writing used to a solution for being self-disciplined, while reading is critical for superior judgement.
 ## Censorship is evil
 The government is inpatient and arrogant. I feel terrible about the censorship about 10 years old, and fresh memory tells that some of my classmates joked at me as coward as I wouldn't have the courage to spread the sensitive thoughts publicly. Surely, I'm not a coward and they would prevent me from making the mistake. Had complained the stupid censorship for years, I comforted me with a new theory. The reason China need censorship is that stability is the basement of economical construction. With some many races living in Chain, instigation about break up the nation would be too easy.  
 
