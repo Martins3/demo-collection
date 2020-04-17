@@ -20,9 +20,7 @@ Maybe, there are too many colorful and spectacular landscape to calm myself down
 Browsing the all kinds of wired answers under bizarre questions, their immature and insane ideas rush into your brain without chewing and rebound with precipitous speed.
 This is my penultimate valedictory to the life of skimming.
 
-
 `zhihu` is still my best friend and teacher, but I want to use it with more efficient way, as a manual.
 
 At last, `zhihu billboard` is totally a shit, which spread anxiety, nationalism, consumerism and other disgusting opinions, but this is exactly what the masses cared about.
 /* > Recommender system */
-

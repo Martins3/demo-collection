@@ -14,3 +14,5 @@ So what are the ability and how to develop it ? I'm so sorry I don't know, but t
 1. There's no such thing as ultimate goal. Ultimate goal means you don't know what to do after achieving. For someone, it's College entrance examination, they seldom want to study after that.
 For someone, it's offer from a grand company, then they suffer with threaten of firing. 
 2. Keep your nose sensitive about the future. The trend changes quickly, and tide goes up and down. Don't fight against with mainstream, find it and take advantage of it.
+
+Why we want to master Linux kernel, because understanding kernel prove me a strong man ! Let's make the logic clear by qualify myself firstly !

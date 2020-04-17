@@ -73,13 +73,13 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   archivePaginate = 5
 
   # show 'xx Posts In Total' in archive page ?            # 是否在归档页显示文章的总数
-  showArchiveCount = false
+  showArchiveCount = true
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2006-01-02"
 
   # show word count and read time ?                       # 是否显示字数统计与阅读时间
-  moreMeta = false
+  moreMeta = true
 
   # Syntax highlighting by highlight.js
   highlightInClient = false
@@ -143,8 +143,8 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     clientSecret = ""       # Your client secret
 
   [params.utterances]       # https://utteranc.es/
-    owner = ""              # Your GitHub ID
-    repo = ""               # The repo to store comments
+    owner = "martins3"              # Your GitHub ID
+    repo = "weekly"               # The repo to store comments
 
   [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
     owner = ""              # Your GitHub ID
