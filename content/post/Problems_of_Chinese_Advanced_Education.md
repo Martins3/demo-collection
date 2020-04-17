@@ -1,7 +1,7 @@
 ---
 title: "Problems of Chinese Advanced Education"
 date: 2019-10-31T12:11:24+08:00
-draft: false
+draft: true
 ---
 I have complaint about the stubborn and willpower eroding educational system for years.
 There is no such thing as education, only pipelines of factory.

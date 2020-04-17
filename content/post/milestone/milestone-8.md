@@ -1,7 +1,7 @@
 ---
 title: "Milestone : How to prepare me for the uncertaincy of future ?"
 date: 2020-02-03T19:40:17+08:00
-draft: false
+draft: true
 categories: [milestone]
 ---
 

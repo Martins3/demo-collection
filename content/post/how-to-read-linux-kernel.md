@@ -1,7 +1,7 @@
 ---
 title: "How to Read Linux Kernel"
 date: 2020-02-13T00:14:51+08:00
-draft: false
+draft: true
 ---
 
 Today, while I was talking about traditional poems with my wife, I told her that I almost recited all the poems in the book (written for Children).

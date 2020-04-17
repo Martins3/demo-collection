@@ -1,7 +1,7 @@
 ---
 title: "Milestone : How to slove the problem efficiently"
 date: 2020-01-29T19:40:17+08:00
-draft: false
+draft: true
 categories: [milestone]
 ---
 

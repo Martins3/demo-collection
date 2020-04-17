@@ -1,7 +1,7 @@
 ---
 title: "Goodbye, zhihu"
 date: 2019-11-02T15:20:04+08:00
-draft: false
+draft: true
 ---
 Why I begin write non-technological articles ? Learning by teaching is efficient. But there are other reasons for me to quit all kinds of social media such twitter,
 `weibo` and `zhihu`. I started to be addicted to it four years ago, because it do help me and diverge me from the "normal" undergraduates.

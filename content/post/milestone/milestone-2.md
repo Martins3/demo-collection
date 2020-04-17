@@ -1,7 +1,7 @@
 ---
 title: "Milestone : Going through more depressions"
 date: 2019-11-24T22:15:51+08:00
-draft: false
+draft: true
 categories: [milestone]
 ---
 Years ago, hardship, failure and all kinds of other hinders had became to some stupid opinion in the exams of language course.

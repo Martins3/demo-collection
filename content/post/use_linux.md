@@ -1,7 +1,7 @@
 ---
 title: "Use Linux with laziness"
 date: 2019-11-05T00:26:09+08:00
-draft: false
+draft: true
 ---
 Linux is certainty better than Microsoft Windows for cs students.
 1. less games or poor support for it.

@@ -1,7 +1,7 @@
 ---
 title: "Who am I"
 date: 2019-10-30T17:01:25+08:00
-draft: false
+draft: true
 ---
 This is not a introduction to myself, and there is no need to waste you, a stranger for me, several minutes to acknowledge some symmetrical and compositional information.
 

@@ -1,7 +1,7 @@
 ---
 title: "Notes on Animal Farm"
 date: 2019-12-06T15:19:47+08:00
-draft: false
+draft: true
 categories: [reading]
 ---
 
